@@ -6,6 +6,12 @@ Actualmente estoy explorando diferentes conceptos de back-end en diferentes area
 a poder integrar estos conceptos con el front-end así pudiendo proporcionar soluciones comerciales a
 empresas y negocios. 
 
-## Mis lenguajes de programación:
+## Mis lenguajes de programación 💻: 
 
-## Algunos de mis proyectos (hasta ahora):
++ Python 🐍
++ R 🔢
++ C++ 🖥
++ Matlab ➗➕
+
+## Algunos de mis proyectos (hasta ahora) 🗄️: 
+
