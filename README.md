@@ -23,7 +23,7 @@ A continuación se muestran los proyectos más para mi hasta ahora en relación 
 
 | Lenguaje | Liga para su repositirio | 
 | -------- | -------- | 
-| Python | Row 1, Column 2 | 
+| Python | [Cuestionario python] (https://github.com/rafhdz/python-proyects)| 
 | C++ | Row 2, Column 2 |
 | Matlab | Row 2, Column 2 |
 | R | Row 2, Column 2 |
