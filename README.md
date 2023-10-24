@@ -8,7 +8,7 @@ empresas y negocios.
 
 Yo visiono la tecnologia como un medio para poder mejorar la calidad de vida de las personas, siempre teniendo en cuenta el factor humano durante la elaboración y desarrollo de proyectos. 
 
-Mis intereses abarcan la creación y desarrollo de aplicación web y moviles (proxima expansión hacia el front-end) incluyendo el analisis de videojuegos. 
+Mis intereses abarcan la creación y desarrollo de aplicación web y moviles (proxima expansión hacia el front-end) incluyendo el analisis de videojuegos retro y modernos. 
 
 ## Mis lenguajes de programación 💻: 
 
@@ -19,7 +19,11 @@ Mis intereses abarcan la creación y desarrollo de aplicación web y moviles (pr
 
 ## Algunos de mis proyectos (hasta ahora) 🗄️: 
 
-| Header 1 | Header 2 | Header 3 |
-| -------- | -------- | -------- |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |
+A continuación se muestran los proyectos más para mi hasta ahora en relación al lenguaje de programación: 
+
+| Lenguaje | Liga para su repositirio | 
+| -------- | -------- | 
+| Python | Row 1, Column 2 | 
+| C++ | Row 2, Column 2 |
+| Matlab | Row 2, Column 2 |
+| R | Row 2, Column 2 |
