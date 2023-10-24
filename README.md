@@ -19,3 +19,7 @@ Mis intereses abarcan la creación y desarrollo de aplicación web y moviles (pr
 
 ## Algunos de mis proyectos (hasta ahora) 🗄️: 
 
+| Header 1 | Header 2 | Header 3 |
+| -------- | -------- | -------- |
+| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |
+| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |
