@@ -22,7 +22,7 @@ Mis intereses abarcan la creación y desarrollo de aplicación web y moviles (pr
 A continuación se muestran los proyectos más para mi hasta ahora en relación al lenguaje de programación: 
 
 | Lenguaje | Liga para su repositirio | Descripción |
-| -------- | -------- | 
+| -------- | -------- | --------- |
 | Python | [Cuestionario python](https://github.com/rafhdz/python-proyects)| Un cuestionario empleando estructuras de datos en python y una libreria que permite una GUI para la presentación de preguntas |
 | C++ | Row 2, Column 2 | Una pequeña introducción a la programación orientada de objetos manejada por el lenguaje de programación C++ |
 | Matlab | Row 2, Column 2 | Diferentes proyectos orientados a modelar fenomenos fisicos presentando representaciones graficas de los fenomenos |
