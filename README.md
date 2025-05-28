@@ -12,8 +12,9 @@ Mis intereses abarcan la creación y desarrollo de aplicación web y moviles (pr
 
 ## Mis lenguajes de programación: 
 + Python 🐍
-+ R 🔢
 + C++ 🖥
++ R 🔢
+
 
 ## Algunos de mis proyectos estudiantiles 🗄️: 
 
