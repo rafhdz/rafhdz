@@ -22,5 +22,4 @@ A continuación se muestran diferentes proyectos en relación a cada uno de mis 
 | Lenguaje | Liga para su repositirio | Descripción |
 | -------- | -------- | --------- |
 | Python | [Cuestionario python](https://github.com/rafhdz/python-proyects)| Un cuestionario empleando estructuras de datos en python y una libreria que permite una GUI para la presentación de preguntas |
-| C++ | [Proyecto de negocio](https://github.com/rafhdz/cpp-proyects) | Una pequeña introducción a la programación orientada de objetos manejada por el lenguaje de programación C++ |
 | R | [Estadistica en R](https://github.com/rafhdz/r-proyects) | Diferentes proyectos que usen las capacidades de R para poder hacer una gestión ideal de una gran cantidad de datos |
