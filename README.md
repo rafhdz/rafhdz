@@ -1,6 +1,6 @@
 # ¡Bienvenidos a mi portafolio! 📁
 
-## Soy estudiante de ingenieria de software y ciencias computacionales en tercer año. 💻
+## Soy estudiante de ingenieria de software y ciencias computacionales de cuarto año. 💻
 
 Actualmente estoy explorando diferentes conceptos de back-end en diferentes areas, con mis planes
 a poder integrar estos conceptos con el front-end así pudiendo proporcionar soluciones comerciales a
@@ -12,7 +12,6 @@ Mis intereses abarcan la creación y desarrollo de aplicación web y moviles (pr
 
 ## Mis lenguajes de programación: 
 + Python 🐍
-+ C++ 🖥
 + R 🔢
 
 
